@@ -44,10 +44,9 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 ## 🛡️ TryHackMe
 
-<!-- REPLACE 'YOUR_THM_USERNAME' with your actual TryHackMe username -->
 <p align="center">
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" width="50%" />
+  <a href="https://tryhackme.com/p/ms45">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ms45.png" alt="TryHackMe Badge" width="50%" />
   </a>
 </p>
 
@@ -75,7 +74,7 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muditsrivastav21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muditsrivastav21&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
@@ -84,7 +83,11 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
   ### 🐍 Watch my contribution graph get eaten by a snake!
 
-  ![Snake animation](https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake.svg" />
+  </picture>
 
 </div>
 
