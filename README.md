@@ -44,11 +44,21 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 ## 🛡️ TryHackMe
 
-<p align="center">
+<div align="center">
+
   <a href="https://tryhackme.com/p/ms45">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ms45.png" alt="TryHackMe Badge" width="50%" />
   </a>
-</p>
+
+  <br/><br/>
+
+  | Rank | Badges | Streak | Completed Rooms |
+  |:---:|:---:|:---:|:---:|
+  | 🏆 **92,486** *(top 5%)* | 🟣 **17** | 🔥 **10** | 🚪 **104** |
+
+  <sub>⚡ Badge image may be cached by TryHackMe — table shows latest stats</sub>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
