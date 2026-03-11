@@ -17,7 +17,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
 ```yaml
 name: Mudit Srivastav
 located_in: India
@@ -38,21 +37,11 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muditsrivastav21&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" width="60%" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛡️ TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/ms45">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ms45.png" alt="TryHackMe Badge" width="50%" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,flutter,dart,html,css,js&theme=dark" /><br/>
