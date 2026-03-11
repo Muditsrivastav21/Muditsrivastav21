@@ -23,7 +23,6 @@ located_in: India
 current_focus: Building Cool Projects
 education: Learning & Growing Every Day
 hobbies: ["Coding", "Problem Solving", "Open Source"]
-fun_fact: "Code is like humor. When you have to explain it, it's bad."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
