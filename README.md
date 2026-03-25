@@ -122,28 +122,6 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muditsrivastav21&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
-
----
-
-<div align="center">
-
-  ### 🐍 Watch my contribution graph get eaten by a snake!
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Muditsrivastav21/Muditsrivastav21/output/github-snake.svg" />
-  </picture>
-
-</div>
-
----
-
 <div align="center">
 
   ### Let's Connect! 🤝
