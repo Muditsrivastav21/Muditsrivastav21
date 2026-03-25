@@ -70,19 +70,33 @@ interests:
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
-### 🖥️ Languages & Backend
+### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,rust,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash&theme=dark" />
 </p>
 
-### ⚙️ Backend & Databases
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,mysql,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,tailwind&theme=dark" />
 </p>
 
-### 🛠️ DevOps & Infrastructure
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+### 📊 Data Science & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Scilab-2C2255?style=for-the-badge&logo=scilab&logoColor=white" alt="Scilab" />
+</p>
+
+### 🛠️ Tools & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode&theme=dark" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
