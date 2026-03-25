@@ -41,6 +41,21 @@ hobbies: ["Cyber Security Engineer","CTF Player","Coding", "Problem Solving"]
 
 ## 🛡️ TryHackMe
 
+<p align="center">
+  <a href="https://tryhackme.com/p/ms45">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ms45.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ms45">
+    <img src="https://img.shields.io/badge/TryHackMe-ms45-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,kotlin,flutter,dart,html,css,js&theme=dark" /><br/>
