@@ -51,6 +51,15 @@ hobbies: ["Cyber Security Engineer","CTF Player","Coding", "Problem Solving"]
   <a href="https://tryhackme.com/p/ms45">
     <img src="https://img.shields.io/badge/TryHackMe-ms45-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
+  <img src="https://img.shields.io/badge/Top-5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Top 5%" />
+  <img src="https://img.shields.io/badge/Rank-93,353-1fa2ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rank" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Points-10,162-ff6b6b?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Points" />
+  <img src="https://img.shields.io/badge/Rooms-104-9b59b6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rooms Completed" />
+  <img src="https://img.shields.io/badge/Badges-17-f39c12?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Badges" />
+  <img src="https://img.shields.io/badge/Level-9-00d4aa?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Level" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
