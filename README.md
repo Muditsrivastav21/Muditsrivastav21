@@ -35,11 +35,7 @@ interests:
 
 ## 🛡️ TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/ms45">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ms45.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://tryhackme.com/p/ms45">
@@ -65,10 +61,22 @@ interests:
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=thc-hydra&logoColor=white" alt="Hydra" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=nikto&logoColor=white" alt="Nikto" />
+  <img src="https://img.shields.io/badge/Nessus-002D62?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/Maltego-FFA500?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego" />
+  <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge&logo=thehive&logoColor=white" alt="TheHive" />
 </p>
 
 ### 🖥️ Programming Languages
