@@ -33,6 +33,34 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📜 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CAP-AppSec_Practitioner-blue?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNSP-Network_Security-green?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSEDP-Social_Engineering-red?style=flat-square&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-gold?style=flat-square&logo=standard-notes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CASA-API_Security-orange?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-049fd9?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Data_Analytics-049fd9?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements
+
+- 🥇 **Winner** | HACK IITK 2026 - National Level Cybersecurity Hackathon (IIT Kanpur)
+- 🎖️ **Rank 6** | BYPASS CTF Finals 2026 - Top 1% among 570+ teams
+- 🎖️ **Rank 6** | IIT BHU CodeFest CTF 2026 - Top 3% among 250+ teams
+- 🌍 **Rank 37** | Industrial Intrusion CTF - Top 2% among 1900+ teams worldwide
+- 🎖️ **Rank 15** | MITS CTF 2026 - Top 3% among 700+ teams
+- 🏅 **Rank 31** | IIT Madras ISEA CTF - National Level Cybersecurity Challenge
+- 🚀 **Rank 4** | Adani Innovate Hackathon Final 2026
+- 🥈 **2nd Runner-Up** | Internal Smart India Hackathon (SIH)
+- 📈 **Top 4%** | Globally ranked on TryHackMe
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛡️ TryHackMe
 
 
