@@ -35,14 +35,17 @@ interests:
 
 ## 📜 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CAP-AppSec_Practitioner-blue?style=flat-square&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNSP-Network_Security-green?style=flat-square&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSEDP-Social_Engineering-red?style=flat-square&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-gold?style=flat-square&logo=standard-notes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CASA-API_Security-orange?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-049fd9?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Data_Analytics-049fd9?style=flat-square&logo=cisco&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CAP-AppSec_Practitioner-blue?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNSP-Network_Security-green?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSEDP-Social_Engineering-red?style=for-the-badge&logo=hackerone&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-gold?style=for-the-badge&logo=standard-notes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CASA-API_Security-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Data_Analytics-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
