@@ -3,7 +3,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mudit%20Srivastav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20|%20Backend%20Developer%20|%20CTF%20Player&descAlignY=55&descSize=18)
 
   <a href="https://github.com/Muditsrivastav21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Cyber+Security+Enthusiast;Backend+Developer;CTF+Player+%7C+Top+5%25+on+THM;Ethical+Hacker+in+Training" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Cyber+Security+Enthusiast;Backend+Developer;CTF+Player+%7C+Top+4%25+on+THM;Ethical+Hacker+in+Training" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -45,15 +45,15 @@ interests:
   <a href="https://tryhackme.com/p/ms45">
     <img src="https://img.shields.io/badge/TryHackMe-ms45-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
-  <img src="https://img.shields.io/badge/Top-5%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Top 5%" />
-  <img src="https://img.shields.io/badge/Rank-93,353-1fa2ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rank" />
+  <img src="https://img.shields.io/badge/Top-4%25-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Top 4%" />
+  <img src="https://img.shields.io/badge/Rank-75,638-1fa2ff?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rank" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Points-10,162-ff6b6b?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Points" />
-  <img src="https://img.shields.io/badge/Rooms-104-9b59b6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rooms Completed" />
+  <img src="https://img.shields.io/badge/Rooms-122-9b59b6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rooms Completed" />
   <img src="https://img.shields.io/badge/Badges-17-f39c12?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Badges" />
-  <img src="https://img.shields.io/badge/Level-9-00d4aa?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Level" />
+  <img src="https://img.shields.io/badge/Level-10-00d4aa?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Level" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -126,9 +126,9 @@ interests:
 
   ### Let's Connect! 🤝
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudit-srivastav)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muditoc1n/)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ms45)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditsrivastav22@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditsrivastav45@gmail.com)
 
 </div>
 
