@@ -51,6 +51,7 @@ interests:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Points-10,162-ff6b6b?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Points" />
+  <img src="https://img.shields.io/badge/Streak-31-orange?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Streak" />
   <img src="https://img.shields.io/badge/Rooms-122-9b59b6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Rooms Completed" />
   <img src="https://img.shields.io/badge/Badges-17-f39c12?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Badges" />
   <img src="https://img.shields.io/badge/Level-10-00d4aa?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Level" />
