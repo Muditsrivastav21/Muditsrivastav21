@@ -20,9 +20,9 @@
 
 ```yaml
 name: Mudit Srivastav
-role: Cyber Security Engineer | Backend Developer
+role: Cyber Security Engineer | Backend Developer | VAPT Analyst | CTF Player
 located_in: India
-current_focus: Security Research & Backend Development
+current_focus: Web Application Security, Security Research & Backend Development
 interests:
   - Penetration Testing
   - CTF Competitions
