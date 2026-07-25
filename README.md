@@ -3,7 +3,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mudit%20Srivastav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20|%20Backend%20Developer%20|%20CTF%20Player&descAlignY=55&descSize=18)
 
   <a href="https://github.com/Muditsrivastav21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Cyber+Security+Enthusiast;Backend+Developer;CTF+Player+%7C+Top+4%25+on+THM;Ethical+Hacker+in+Training" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Cyber+Security+Enthusiast;Backend+Developer;CTF+Player+%7C+Top+3%25+on+THM;Ethical+Hacker+in+Training" alt="Typing SVG" />
   </a>
 
   <br/>
